@@ -27,6 +27,13 @@ Aplikasi web simonel ini dibangun menggunakan :
 
 Download file zip repo ini, kemudian ekstrak dan letakkan di folder xampp kalian
 
-...
+```
 C:/xampp/simonel
-...
+```
+
+Kemudian buka xampp control panel dan jalankan server Apache dan MySQL
+
+
+## Credit
+
+> Evan Kamalludin | Tegar Dwi Arbiantoro
