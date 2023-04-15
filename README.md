@@ -14,14 +14,14 @@ Hal penting yang ditampilkan di website ini adalah data `rata-rata` dan `terting
 ## Tech
 
 Aplikasi web simonel ini dibangun menggunakan :
-- XAMPP
-- Visual Studio Code
-- PHP
-- Javascript
-- JQuery
-- Bootstrap
-- HTML
-- CSS
+- `XAMPP`
+- `Visual Studio Code`
+- `PHP`
+- `Javascript`
+- `JQuery`
+- `Bootstrap`
+- `HTML`
+- `CSS`
 
 
 ## Installation
