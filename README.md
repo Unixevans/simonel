@@ -40,4 +40,5 @@ Kemudian buka xampp control panel dan jalankan server Apache dan MySQL
 ## Credit
 
 > Evan Kamalludin | Tegar Dwi Arbiantoro
-> 15 April 2023
+
+> Teknolab Caraka Internasional
