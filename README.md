@@ -8,7 +8,7 @@ Repo ini berisi hasil source code dari projek website monitoring solar panel.
 
 ## Description
 
-Hal penting yang ditampilkan di website ini adalah data `rata-rata` dan `tertinggi` setiap output dari dua buah `Microinventer`, antara lain output Tegangan(Voltage), Arus(Ampere), Daya Nyata(Whatt), Daya Semu(Voltage Ampere), dan Daya Reaktif(Voltage Ampere Reactive).
+Hal penting yang ditampilkan di website ini adalah data `rata-rata` dan `tertinggi` setiap output dari dua buah `Microinventer`, antara lain output `Tegangan(Voltage)`, `Arus(Ampere)`, `Daya Nyata(Whatt)`, `Daya Semu(Voltage Ampere)`, dan `Daya Reaktif(Voltage Ampere Reactive)`.
 
 
 ## Tech
