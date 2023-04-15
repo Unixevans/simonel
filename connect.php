@@ -3,6 +3,9 @@
 
 <?php
 
+// File connect ini digunakan untuk jalur transfer data output sensor panel ke Database
+
+
 $dbname = 'simonel';
 $dbuser = 'root';  
 $dbpass = ''; 
