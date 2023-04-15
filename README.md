@@ -2,7 +2,7 @@
 
 Repo ini berisi hasil source code dari projek website monitoring solar panel.
 
-[![View On Browser](https://i.postimg.cc/151KmBMM/20230415-135720-COLLAGE.jpg)](https://elgaarisprastyo.com)
+[![View On Browser](https://i.postimg.cc/151KmBMM/20230415-135720-COLLAGE.jpg)]
 [VIEW THIS WEBSITE](https://elgaarisprastyo.com)
 
 
