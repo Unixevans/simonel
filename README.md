@@ -12,11 +12,21 @@ Hal penting yang ditampilkan di website ini adalah setiap output yang dihasilkan
 
 ## Tech
 
-Aplikasi website monitoring panel ini menggunakan :
+Aplikasi web simonel ini dibangun menggunakan :
 - XAMPP
-- JQUERY
+- Visual Studio Code
 - PHP
 - Javascript
+- JQuery
 - Bootstrap
 - HTML
-- CSS5
+- CSS
+
+
+## Installation
+
+Download file zip repo ini, kemudian ekstrak dan letakkan di folder xampp kalian
+
+...
+C:/xampp/simonel
+...
