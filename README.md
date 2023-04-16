@@ -19,6 +19,7 @@ Aplikasi web simonel ini dibangun menggunakan :
 - `PHP`
 - `Javascript`
 - `JQuery`
+- `CanvasJS`
 - `Bootstrap`
 - `HTML`
 - `CSS`
