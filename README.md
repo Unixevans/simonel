@@ -36,10 +36,13 @@ C:/xampp/htdocs/simonel
 Kemudian buka xampp control panel dan jalankan server `Apache` dan `MySQL`, kemudian buat database dengan nama `simonel`, dan tabel bernama pzem_data dengan SQL Query berikut :
 
 ```
-> CREATE DATABASE simonel;
+CREATE DATABASE simonel;
 ```
 ```
-> CREATE TABLE pzem_data (
+USE simonel;
+```
+```
+CREATE TABLE pzem_data (
     id int PRIMARY KEY AUTO_INCREMENT,
     voltageA float,
     currentA float,
@@ -55,6 +58,7 @@ Kemudian buka xampp control panel dan jalankan server `Apache` dan `MySQL`, kemu
  );
 ```
 
+Kemudian sesuaikan koneksi database pada masing-masing file
 
 
 
