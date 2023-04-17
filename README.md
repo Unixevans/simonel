@@ -33,7 +33,28 @@ Download file zip repo ini, kemudian ekstrak dan letakkan di folder `htdocs` xam
 C:/xampp/htdocs/simonel
 ```
 
-Kemudian buka xampp control panel dan jalankan server Apache dan MySQL
+Kemudian buka xampp control panel dan jalankan server `Apache` dan `MySQL`, kemudian buat database dengan nama `simonel`, dan tabel bernama pzem_data dengan SQL Query berikut :
+
+```
+> CREATE DATABASE simonel;
+```
+```
+> CREATE TABLE pzem_data (
+    id int PRIMARY KEY AUTO_INCREMENT,
+    voltageA float,
+    currentA float,
+    dayanyataA float,
+    dayasemuA float,
+    dayareaktifA float,
+    voltageB float,
+    currentB float,
+    dayanyataB float,
+    dayasemuB float,
+    dayareaktifB float,
+    created_at timestamp DEFAULT CURRENT_TIMESTAMP
+ );
+```
+
 
 
 
