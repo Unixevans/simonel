@@ -33,7 +33,7 @@ Download file zip repo ini, kemudian ekstrak dan letakkan di folder `htdocs` xam
 C:/xampp/htdocs/simonel
 ```
 
-Kemudian buka xampp control panel dan jalankan server `Apache` dan `MySQL`, kemudian buat database dengan nama `simonel`, dan tabel bernama pzem_data dengan SQL Query berikut :
+Kemudian buka xampp control panel dan jalankan server `Apache` dan `MySQL`, kemudian buat database dengan nama `simonel`, dan tabel bernama `pzem_data` dengan SQL Query berikut :
 
 ```
 CREATE DATABASE simonel;
