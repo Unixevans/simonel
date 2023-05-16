@@ -2,10 +2,10 @@
 
 Repo ini berisi hasil source code dari projek website monitoring solar panel.
 
-### Dekstop View
+<h3 align="center">Dekstop View</h3>
 ![View On Browser](https://i.postimg.cc/HWNMZ0w2/simonel-dash.png)
 
-### Mobile View
+<h3 align="center">Mobile View</h3>
 ![View On Browser](https://i.postimg.cc/151KmBMM/20230415-135720-COLLAGE.jpg)
 
 ## [VIEW THIS WEBSITE](https://elgaarisprastyo.com)
