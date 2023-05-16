@@ -71,7 +71,7 @@ Kemudian sesuaikan koneksi database pada masing-masing file
 
 
 
-## Credit
+## Credits
 
 > Evan Kamalludin | Tegar Dwi Arbiantoro
 
