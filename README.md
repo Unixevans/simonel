@@ -19,16 +19,19 @@ Hal penting yang ditampilkan di website ini adalah data `rata-rata` dan `terting
 ## Tech
 
 Aplikasi web simonel ini dibangun menggunakan :
-- `XAMPP`
+- `XAMPP versi 3.3.0`
 - `Visual Studio Code`
-- `PHP`
+- `PHP versi 8.2.0`
 - `Javascript`
 - `JQuery`
 - `CanvasJS`
 - `Bootstrap`
-- `HTML`
-- `CSS`
+- `HTML5`
+- `CSS3`
 
+## Requirements
+
+- `PHP version 7.3 atau diatasnya`
 
 ## Installation
 
