@@ -11,7 +11,7 @@ Repo ini berisi hasil source code dari projek website monitoring solar panel.
 ## [VIEW THIS WEBSITE](https://elgaarisprastyo.com)
 
 
-## Description
+## Descriptions
 
 Hal penting yang ditampilkan di website ini adalah data `rata-rata` dan `tertinggi` setiap output dari dua buah `Microinventer`, antara lain output `Tegangan(Voltage)`, `Arus(Ampere)`, `Daya Nyata(Watt)`, `Daya Semu(Voltage Ampere)`, dan `Daya Reaktif(Voltage Ampere Reactive)`.
 
