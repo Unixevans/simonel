@@ -33,7 +33,7 @@ Aplikasi web simonel ini dibangun menggunakan :
 
 - `PHP version 7.3 atau diatasnya`
 
-## Installation
+## Installations
 
 Download file zip repo ini, kemudian ekstrak dan letakkan di folder `htdocs` xampp kalian
 
