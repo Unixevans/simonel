@@ -1,7 +1,7 @@
 # SIMONEL (SYSTEM MONITORING PANEL) LATEST VERSION
 
 Repo ini berisi source code dari proyek website monitoring solar panel.
-Proyek web monitoring panel ini merupakan hasil kerjasama dalam rangka proyek `praktek magang (Januari - Juni 2023)` antara dua jurusan di [`SMKN 1 NGLEGOK`](https://smkn1nglegok.sch.id/), yaitu `TKJ` (Teknik Komputer Jaringan) dan `TEI` (Teknik Elektronika Industri), di bawah bimbingan [`PT. Teknolab Caraka Internasional`](https://www.teknolab.biz.id/). TEI memegang peran dalam IoT hardware Panel Surya meliputi, transfer data LoRa, ESP32, installasi hardware, software IoT programming dll. Sedangkan TKJ memegang peran sebagai web development yaitu, visualisasi data output yang dihasilkan oleh hardware Panel Surya dalam bentuk sebuah website yang dapat di monitoring dengan mudah kapan saja dan dimana saja.
+Proyek web monitoring panel ini merupakan hasil kerjasama dalam rangka proyek `praktek magang (Januari - Juni 2023)` antara dua jurusan di [`SMKN 1 NGLEGOK`](https://smkn1nglegok.sch.id/), yaitu `TKJ` (Teknik Komputer Jaringan) dan `TEI` (Teknik Elektronika Industri), di bawah bimbingan [`PT. Teknolab Caraka Internasional`](https://www.teknolab.biz.id/). TEI memegang peran dalam `IoT hardware Panel Surya` meliputi, transfer data LoRa, ESP32, installasi hardware, software IoT programming dll. Sedangkan TKJ memegang peran sebagai `web development` yaitu, visualisasi data output yang dihasilkan oleh hardware Panel Surya dalam bentuk sebuah website yang dapat di monitoring dengan mudah kapan saja dan dimana saja.
 
 ### Dekstop View
 ![View On Browser](https://i.postimg.cc/HWNMZ0w2/simonel-dash.png)
