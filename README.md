@@ -1,6 +1,7 @@
 # SIMONEL (SYSTEM MONITORING PANEL) LATEST VERSION
 
-Repo ini berisi hasil source code dari projek website monitoring solar panel.
+Repo ini berisi source code dari projek website monitoring solar panel.
+Dimana project web monitoring panel ini adalah hasil project kerjasama antara 2 jurusan SMKN 1 NGLEGOK yaitu, TKJ (Teknik Komputer Jaringan) dan TEI (Teknik Elektronika Industri). TEI memegang peran dalam IoT hardware Panel Surya meliputi, installasi hardware, software IoT programming dll. Sedangkan TKJ memegang peran sebagai web development yaitu, memvisualisasikan data output yang dihasilkan oleh hardware Panel Surya dalam bentuk sebuah website yang dapat di monitoring dengan mudah kapan saja dan dimana saja.
 
 ### Dekstop View
 ![View On Browser](https://i.postimg.cc/HWNMZ0w2/simonel-dash.png)
